@@ -1,9 +1,9 @@
-# Laravel PHP Framework
+## Laravel PHP Framework
 This App using Laravel version 5.5.x
 
 Documentation for the framework can be found on the [Laravel website](http://laravel.com/docs).
 
-# To use this app
+## To use this app
 
 - Clone project from this repository
 
