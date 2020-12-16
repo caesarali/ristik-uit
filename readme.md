@@ -1,8 +1,5 @@
 # Laravel PHP Framework
 This App using Laravel version 5.5
-
-## Official Laravel Documentation
-
 Documentation for the framework can be found on the [Laravel website](http://laravel.com/docs).
 
 # To use this app
@@ -23,5 +20,6 @@ Documentation for the framework can be found on the [Laravel website](http://lar
 
 - Done.
 
-## Any Question ? Contact me on:
-- [Facebook](https://facebook.com/caesaralilamondo)
+## Kontak saya di:
+- [Twitter](https://twitter.com/caesarali_L)
+- [Telegram](https://t.me/caesarali)
