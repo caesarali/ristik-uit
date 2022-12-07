@@ -1,7 +1,14 @@
+![Homepage](/public/images/Screenshot-00.png)
+
 ## Laravel PHP Framework
 This App using Laravel version 5.5.x
 
 Documentation for the framework can be found on the [Laravel website](https://laravel.com/docs/5.5).
+
+## System requirement
+- PHP v7.2.*
+- Composer v2
+- MySQL v5
 
 ## To use this app
 

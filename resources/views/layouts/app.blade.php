@@ -23,10 +23,10 @@
     <!--[if lt IE 9]>
     <script src="js/html5shiv.js"></script>
     <script src="js/respond.min.js"></script>
-    <![endif]-->       
+    <![endif]-->
     <link rel="shortcut icon" href="{{ asset('img/fav.png') }}">
 </head>
-<body>
+<body style="min-height: 100vh">
     {{-- <div id="app"> --}}
         @include('layouts.header')
 

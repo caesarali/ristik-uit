@@ -1,4 +1,4 @@
-<footer id="footer" class="midnight-blue">
+<footer id="footer" class="midnight-blue" style="bottom: 0; width: 100%; position: absolute">
     <div class="container">
         <div class="row">
             <div class="col-sm-6">
