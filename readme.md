@@ -1,12 +1,13 @@
+
 ![Homepage](/public/img/Screenshot-00.png)
 
-## Laravel PHP Framework
-This App using Laravel version 5.5.x
+## About
+This is an old web app. This app still using Laravel version 5.5.x.
 
 Documentation for the framework can be found on the [Laravel website](https://laravel.com/docs/5.5).
 
 
-## System requirement
+## Server Requirements
 - PHP v7.2.*
 
 - Composer v2
